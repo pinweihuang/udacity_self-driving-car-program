@@ -18,8 +18,8 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="55" column="21" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="21" />
+            <state relative-caret-position="525">
+              <caret line="47" column="14" lean-forward="true" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
               <folding>
                 <element signature="e#32#49#0" expanded="true" />
               </folding>
@@ -30,10 +30,11 @@
       <file leaf-file-name="helper_func.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/helper_func.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="779">
-              <caret line="114" column="99" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="114" selection-end-column="99" />
+            <state relative-caret-position="435">
+              <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#4859#5264#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -51,13 +52,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/helper_func.py" />
+        <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1620" />
+    <option name="x" value="940" />
     <option name="y" value="52" />
     <option name="width" value="1458" />
     <option name="height" value="1548" />
@@ -273,7 +274,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1620" y="52" width="1458" height="1548" extended-state="4" />
+    <frame x="940" y="52" width="1458" height="1548" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24965706" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -299,7 +300,15 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/helper_func.py</url>
+          <line>145</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -313,8 +322,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="55" column="21" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="21" />
+        <state relative-caret-position="525">
+          <caret line="47" column="14" lean-forward="true" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
           <folding>
             <element signature="e#32#49#0" expanded="true" />
           </folding>
@@ -323,10 +332,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/helper_func.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="114" column="99" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="114" selection-end-column="99" />
+        <state relative-caret-position="435">
+          <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#4859#5264#0" expanded="false" />
           </folding>
         </state>
       </provider>
