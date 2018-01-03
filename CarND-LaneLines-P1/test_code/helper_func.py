@@ -79,9 +79,9 @@ def draw_lines(img, lines, color=[255, 0, 0], thickness=5):
 
     print(slopes)
 
-    # sorted_slopes_idx = np.argsort(slopes)
-    # sorted_slopes = slopes[sorted_slopes_idx[:]]
-    # sorted_lines = lines[sorted_slopes_idx[:]]
+    sorted_slopes_idx = np.argsort(slopes)
+    sorted_slopes = slopes[sorted_slopes_idx[:]]
+    sorted_lines = lines[sorted_slopes_idx[:]]
     #
     # slopes_diff = sorted_slopes[1:] - sorted_slopes[:-1]
     # max_change_idx = np.argmax(slopes_diff)
